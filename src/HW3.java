@@ -1,5 +1,6 @@
 public class HW3{
     public static void main(String[] args) {
+        //привет
         double[] arrey = {3.0, 4.5, -6.0, -7.0, 2.5, 8.5, -1.0, 0.5, 2.0, -7.5, 9.0, 6.5, -0.0, 3.3, -1.1};
         boolean isNegativefound = false;
         double sum = 0;
@@ -23,4 +24,5 @@ public class HW3{
             System.out.println("Нет положительных чисел после первого отрицателльного");
             }
         }
-    } //я успела до дэдлайна когда осталось 1 час) //
+    } //Я успела час до дэдлаина
+    //End of Program
